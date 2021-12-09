@@ -1,0 +1,1 @@
+senerio 2 when trying to push changes without sync from remote.(without git pull)
